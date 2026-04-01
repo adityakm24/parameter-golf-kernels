@@ -1,0 +1,7 @@
+[project]
+name = "parameter-golf-kernels"
+version = "0.1.0"
+description = "Standalone custom kernel and Muon orthogonalization microbenchmarks."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
