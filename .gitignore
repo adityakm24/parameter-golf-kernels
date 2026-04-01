@@ -1,5 +1,6 @@
 .venv/
 .uv-python/
+uv.lock
 __pycache__/
 *.pyc
 *.pyo
